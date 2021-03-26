@@ -1,5 +1,6 @@
 ## My Second React-Native-App
 
-## Most Viewed Articles Of A Day
+## Displays Most Viewed Articles Of A Day
+## New York Times Api
 
-# From New York Times Api
+
